@@ -1,10 +1,10 @@
 ---
-title: "About Me"
-weight: 3
-header_menu: true
+title: "关于我们"
+weight: 1
+header_menu: false
 ---
 
-![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
+![雪域芳华](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
 
 ##### Professionel Experience
 

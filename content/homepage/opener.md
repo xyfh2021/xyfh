@@ -1,10 +1,24 @@
 ---
-title: "Welcome"
+title: "关于我们"
 weight: 1
 ---
 
-Hi there. This section will not show up in the header menu above. Other than that, there's really not much to see here. I did however append some generated »Lorem ipsum«-paragraphs for you. Enjoy!
+我们是在塔城生在塔城长，在塔城学习成长的塔城的孩子，10年回到新疆乌鲁木齐，一直希望能回到塔城，为塔城的建设贡献自己的一点绵薄之力。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula turpis nec arcu cursus, ac faucibus felis tempor. Donec molestie arcu eu pretium accumsan. Phasellus urna nisi, volutpat pharetra orci vel, feugiat sollicitudin diam. Phasellus dolor tortor, feugiat a ipsum id, gravida volutpat urna. Nam dictum nulla ac nisi aliquam ultricies. Nam tempus eget lorem vitae vulputate.
+2014年9月我们成立了自己的公司：塔城市恒翌生物科技开发有限公司。
 
-Nulla aliquet, nisl pulvinar fermentum ultricies, turpis purus ultricies lorem, ut faucibus arcu nisl in tellus. Integer eu augue auctor, fringilla nunc ut, finibus eros. Curabitur est lectus, ultricies id blandit at, malesuada et ipsum. Suspendisse potenti. Quisque euismod sapien arcu, vel sollicitudin ipsum dignissim nec.
+2014年10月，我们在163团7连签下了220亩林地种植承包合同，合同期20年。
+
+2015年4月，从北京林科院运输到塔城10000棵大马士革玫瑰种苗，开沟种植。
+
+2015年7月，苗子都长大了，我们选择把长的比较好的苗子做压枝处理，希望来年能发更多的苗子开更多的花。
+
+2015年9月底，因为怕玫瑰苗冬天不能抗寒，把枝子全部压倒用土埋上，为越冬做准备。
+
+2018年我们开始研发深加工的护肤产品，利用我们生产的高品质玫瑰纯露和精油，制作面膜、乳液、霜并已投入使用。
+
+2019年，投资一个产品展示区，体验区，在管理好原有种植区域的前提下，和周边农户签订种植收购协议，教他们种植玫瑰，我们做回收处理。同时体验店也会对玫瑰产品做普及宣传，吸纳更多人做我们的代理，也带动一部分人就业。
+
+2020年，在疫情的影响下，我们的产品销售逆势增长，实现了70%的业绩增长，虽然没有达到过去3年的100%增长，但是在这样的大环境下已经难能可贵。
+
+2021年我们计划投资建设一个属于自己的深加工工厂，更方便我们研发生产产品。落地塔城，吸引高新技术人才来塔城发展就业。

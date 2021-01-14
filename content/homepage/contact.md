@@ -1,6 +1,6 @@
 ---
-title: "Contact"
-weight: 4
+title: "联络我们"
+weight: 3
 header_menu: true
 ---
 

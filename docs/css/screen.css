@@ -501,8 +501,8 @@ ul li {
 /* The details of your blog. Defined in ghost/settings/ */
 .blog-title {
   margin: 10px 0 10px 0;
-  font-size: 5rem;
-  letter-spacing: -1px;
+  font-size: 7rem;
+  text-shadow: 0 0 #46464646;
 }
 
 .blog-description {
@@ -512,6 +512,7 @@ ul li {
   font-weight: 400;
   font-family: "Roboto Slab", serif;
   letter-spacing: 0;
+  text-shadow: 0 0 #46464646;
 }
 
 .post-holder {
